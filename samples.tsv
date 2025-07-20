@@ -1,0 +1,45 @@
+sample	description	n_reads	read_length	error_rate	mutation_rate	indel_fraction	indel_extended	fragment_mean	fragment_std	seed	Depth
+30X_reference_match	No sequencing errors or genetic variance	241096015	150	0	0	0	0	350	50	42	30.00
+30X_low_error_low_variance	Low sequencing errors and genetic variance	241096015	150	0.001	0.001	0.15	0.3	350	50	42	30.00
+30X_med_error_med_variance	Medium sequencing errors and genetic variance	241096015	150	0.01	0.01	0.15	0.3	350	50	42	30.00
+30X_hi_error_low_variance	High sequencing errors and low genetic variance	241096015	150	0.05	0.001	0.15	0.3	350	50	42	30.00
+30X_hi_error_med_variance	High sequencing errors and medium genetic variance	241096015	150	0.05	0.01	0.15	0.3	350	50	42	30.00
+30X_hi_error_no_variance	High sequencing errors and no genetic variance	241096015	150	0.05	0	0.15	0.3	350	50	42	30.00
+30X_no_error_hi_variance	No sequencing errors and high genetic variance	241096015	150	0	0.05	0.15	0.3	350	50	42	30.00
+30X_med_error_no_variance	Medium sequencing errors and no genetic variance	241096015	150	0.01	0	0.15	0.3	350	50	42	30.00
+30X_no_error_med_variance	No sequencing errors and medium genetic variance	241096015	150	0	0.01	0.15	0.3	350	50	42	30.00
+30X_low_error_no_variance	Low sequencing errors and no genetic variance	241096015	150	0.001	0	0.15	0.3	350	50	42	30.00
+30X_no_error_low_variance	No sequencing errors and low genetic variance	241096015	150	0	0.001	0.15	0.3	350	50	42	30.00
+5X_reference_match	No sequencing errors or genetic variance	40182669	150	0	0	0	0	350	50	42	5.00
+5X_low_error_low_variance	Low sequencing errors and genetic variance	40182669	150	0.001	0.001	0.15	0.3	350	50	42	5.00
+5X_med_error_med_variance	Medium sequencing errors and genetic variance	40182669	150	0.01	0.01	0.15	0.3	350	50	42	5.00
+5X_hi_error_low_variance	High sequencing errors and low genetic variance	40182669	150	0.05	0.001	0.15	0.3	350	50	42	5.00
+5X_hi_error_med_variance	High sequencing errors and medium genetic variance	40182669	150	0.05	0.01	0.15	0.3	350	50	42	5.00
+5X_hi_error_no_variance	High sequencing errors and no genetic variance	40182669	150	0.05	0	0.15	0.3	350	50	42	5.00
+5X_no_error_hi_variance	No sequencing errors and high genetic variance	40182669	150	0	0.05	0.15	0.3	350	50	42	5.00
+5X_med_error_no_variance	Medium sequencing errors and no genetic variance	40182669	150	0.01	0	0.15	0.3	350	50	42	5.00
+5X_no_error_med_variance	No sequencing errors and medium genetic variance	40182669	150	0	0.01	0.15	0.3	350	50	42	5.00
+5X_low_error_no_variance	Low sequencing errors and no genetic variance	40182669	150	0.001	0	0.15	0.3	350	50	42	5.00
+5X_no_error_low_variance	No sequencing errors and low genetic variance	40182669	150	0	0.001	0.15	0.3	350	50	42	5.00
+1X_reference_match	No sequencing errors or genetic variance	8036534	150	0	0	0	0	350	50	42	1
+1X_low_error_low_variance	Low sequencing errors and genetic variance	8036534	150	0.001	0.001	0.15	0.3	350	50	42	1
+1X_med_error_med_variance	Medium sequencing errors and genetic variance	8036534	150	0.01	0.01	0.15	0.3	350	50	42	1
+1X_hi_error_low_variance	High sequencing errors and low genetic variance	8036534	150	0.05	0.001	0.15	0.3	350	50	42	1
+1X_hi_error_med_variance	High sequencing errors and medium genetic variance	8036534	150	0.05	0.01	0.15	0.3	350	50	42	1
+1X_hi_error_no_variance	High sequencing errors and no genetic variance	8036534	150	0.05	0	0.15	0.3	350	50	42	1
+1X_no_error_hi_variance	No sequencing errors and high genetic variance	8036534	150	0	0.05	0.15	0.3	350	50	42	1
+1X_med_error_no_variance	Medium sequencing errors and no genetic variance	8036534	150	0.01	0	0.15	0.3	350	50	42	1
+1X_no_error_med_variance	No sequencing errors and medium genetic variance	8036534	150	0	0.01	0.15	0.3	350	50	42	1
+1X_low_error_no_variance	Low sequencing errors and no genetic variance	8036534	150	0.001	0	0.15	0.3	350	50	42	1
+1X_no_error_low_variance	No sequencing errors and low genetic variance	8036534	150	0	0.001	0.15	0.3	350	50	42	1
+0.5X_reference_match	No sequencing errors or genetic variance	4018267	150	0	0	0	0	350	50	42	0.5
+0.5X_low_error_low_variance	Low sequencing errors and genetic variance	4018267	150	0.001	0.001	0.15	0.3	350	50	42	0.5
+0.5X_med_error_med_variance	Medium sequencing errors and genetic variance	4018267	150	0.01	0.01	0.15	0.3	350	50	42	0.5
+0.5X_hi_error_low_variance	High sequencing errors and low genetic variance	4018267	150	0.05	0.001	0.15	0.3	350	50	42	0.5
+0.5X_hi_error_med_variance	High sequencing errors and medium genetic variance	4018267	150	0.05	0.01	0.15	0.3	350	50	42	0.5
+0.5X_hi_error_no_variance	High sequencing errors and no genetic variance	4018267	150	0.05	0	0.15	0.3	350	50	42	0.5
+0.5X_no_error_hi_variance	No sequencing errors and high genetic variance	4018267	150	0	0.05	0.15	0.3	350	50	42	0.5
+0.5X_med_error_no_variance	Medium sequencing errors and no genetic variance	4018267	150	0.01	0	0.15	0.3	350	50	42	0.5
+0.5X_no_error_med_variance	No sequencing errors and medium genetic variance	4018267	150	0	0.01	0.15	0.3	350	50	42	0.5
+0.5X_low_error_no_variance	Low sequencing errors and no genetic variance	4018267	150	0.001	0	0.15	0.3	350	50	42	0.5
+0.5X_no_error_low_variance	No sequencing errors and low genetic variance	4018267	150	0	0.001	0.15	0.3	350	50	42	0.5

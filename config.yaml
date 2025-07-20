@@ -1,0 +1,16 @@
+reference_genome: "placeholder_ref/ref.fa"
+
+# Sample configuration file
+samples_file: "samples.tsv"
+
+# Global parameters
+genome_size: 2410976875
+target_coverage: 30
+read_length: 150
+fragment_mean: 350
+fragment_std: 50
+
+# Output directories
+results_dir: "results"
+reports_dir: "reports"
+logs_dir: "logs"
